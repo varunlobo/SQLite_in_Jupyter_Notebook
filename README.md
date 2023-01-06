@@ -1,2 +1,12 @@
 # SQLite_in_Jupyter_Notebook
-SQLite3 using Jupyter Notebook
+
+
+## In this notebook, I have demonstrated the following:
+
+<li> How to create an sqlite3 database in Python using Jupyter Notebook
+<li> Read CSV data into a DataFrame
+<li> Save data from DataFrame into a table in the created db.
+<li> Use SQL commands to manipulate and display data in the db. All in a Juypyter notebook.
+
+
+
